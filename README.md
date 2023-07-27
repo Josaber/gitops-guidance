@@ -1,1 +1,1 @@
-# gitops-guidance
+# GitOps Guidance
